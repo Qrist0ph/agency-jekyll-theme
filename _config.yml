@@ -17,11 +17,12 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : The (Process) Automation Blog
+#logo:      : "/img/header.png"
 email      : info@yaico.de #this is also the email contact forms will go to
 description: "Welcome to this blog about process automation and artificial intelligence in enterprise applications! This site is dedicated to exploring the latest trends, techniques, and best practices for automating business processes using cutting-edge technology. Whether you're a business owner, IT professional, or just interested in learning more about automation, our articles and insights will provide you with valuable information and perspectives"
 author     : Christop Aussem
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
+logo:     #optional, defaults to site title
+  path: assets\img\logo.png
   # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
